@@ -2,9 +2,10 @@
 
 POST {{url_dev}}/shop/signup
 Content-Type: application/json
+x-api-key:  
 
 {
     "name": "SHOP TIPS",
-    "email": "hahuytri2K3gmail.com",
+    "email": "hahuytri2K10gmail.com",
     "password": "abc"
 }
